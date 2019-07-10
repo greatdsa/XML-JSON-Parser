@@ -1,0 +1,511 @@
+[{
+  "PartCycleTime": 0,
+  "Command": "Read",
+  "instanceID": 0,
+  "Unitname": "Reader",
+  "timestamp": "2018-06-08T12:45:37.766Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosB",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:45:38.587Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveWork",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:45:39.621Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveBase",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:45:40.686Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveToPosC",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:45:40.746Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosD",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:45:43.565Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:45:45.23Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToConveyer",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:45:45.39Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:45:46.6Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Close Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:45:47.804Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "TakePart",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:45:45.226Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:45:47.889Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToBox",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:45:48.044Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:45:49.239Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Open Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:45:49.439Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "GripperToBox",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:45:47.885Z"
+},{
+  "PartCycleTime": 5,
+  "Command": "MoveToPosA",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:45:49.489Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Read",
+  "instanceID": 0,
+  "Unitname": "Reader",
+  "timestamp": "2018-06-08T12:45:57.383Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosB",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:45:58.268Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveWork",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:45:59.298Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveBase",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:46:00.363Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveToPosC",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:00.423Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosD",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:03.237Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:04.902Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToConveyer",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:46:05.062Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:06.297Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Close Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:46:07.502Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "TakePart",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:46:04.897Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:07.587Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToBox",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:46:07.747Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:08.967Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Open Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:46:09.167Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "GripperToBox",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:46:07.582Z"
+},{
+  "PartCycleTime": 5,
+  "Command": "MoveToPosA",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:09.218Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Read",
+  "instanceID": 0,
+  "Unitname": "Reader",
+  "timestamp": "2018-06-08T12:46:17.081Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosB",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:17.93Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveWork",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:46:18.96Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveBase",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:46:20.025Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveToPosC",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:20.085Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosD",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:22.899Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:24.564Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveRotorToConveyer",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:46:24.724Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:27.689Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Close Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:46:28.899Z"
+},{
+  "PartCycleTime": 4,
+  "Command": "TakePart",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:46:24.559Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:28.985Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveRotorToBox",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:46:29.144Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:31.835Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Open Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:46:32.034Z"
+},{
+  "PartCycleTime": 3,
+  "Command": "GripperToBox",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:46:28.98Z"
+},{
+  "PartCycleTime": 5,
+  "Command": "MoveToPosA",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:32.084Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Read",
+  "instanceID": 0,
+  "Unitname": "Reader",
+  "timestamp": "2018-06-08T12:46:40.072Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosB",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:41.022Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveWork",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:46:42.052Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveBase",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:46:43.118Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveToPosC",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:43.177Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosD",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:45.997Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:47.656Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToConveyer",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:46:47.821Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:49.121Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Close Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:46:50.326Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "TakePart",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:46:47.651Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:50.411Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToBox",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:46:50.576Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:46:51.851Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Open Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:46:52.052Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "GripperToBox",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:46:50.407Z"
+},{
+  "PartCycleTime": 5,
+  "Command": "MoveToPosA",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:46:52.102Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Read",
+  "instanceID": 0,
+  "Unitname": "Reader",
+  "timestamp": "2018-06-08T12:47:00.524Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosB",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:47:01.345Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveWork",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:47:02.374Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveBase",
+  "instanceID": 0,
+  "Unitname": "InletTest",
+  "timestamp": "2018-06-08T12:47:03.439Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "MoveToPosC",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:47:03.499Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveToPosD",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:47:06.314Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:47:07.973Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToConveyer",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:47:08.143Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:47:09.483Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Close Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:47:10.688Z"
+},{
+  "PartCycleTime": 2,
+  "Command": "TakePart",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:47:07.968Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftUp",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:47:10.773Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "MoveRotorToBox",
+  "instanceID": 0,
+  "Unitname": "Rotor",
+  "timestamp": "2018-06-08T12:47:10.943Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "MoveLiftDown",
+  "instanceID": 0,
+  "Unitname": "Lift",
+  "timestamp": "2018-06-08T12:47:12.237Z"
+},{
+  "PartCycleTime": 0,
+  "Command": "Open Gripper",
+  "instanceID": 0,
+  "Unitname": "Gripper",
+  "timestamp": "2018-06-08T12:47:12.437Z"
+},{
+  "PartCycleTime": 1,
+  "Command": "GripperToBox",
+  "instanceID": 0,
+  "Unitname": "Robot",
+  "timestamp": "2018-06-08T12:47:10.768Z"
+},{
+  "PartCycleTime": 5,
+  "Command": "MoveToPosA",
+  "instanceID": 0,
+  "Unitname": "Conveyer",
+  "timestamp": "2018-06-08T12:47:12.482Z"
+}]
